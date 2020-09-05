@@ -2,7 +2,7 @@
 
 ## Usage
   
-node index.js <relative path from current directory or absolute path>  
+node index.js [relative path from current directory or absolute path]
   
 The param is optional and defaults to current directroy  
 
